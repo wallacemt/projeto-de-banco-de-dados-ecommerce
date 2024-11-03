@@ -25,7 +25,7 @@ O trabalho deverá ser entregue por meio de um repositório Git, cujo link dever
 
 ## Integrantes do Grupo 👥
 
-- Nome do Integrante 1
+- **Wallace De Jesus Santana** - [Repositório](https://github.com/wallacemt/projeto-de-banco-de-dados-ecommerce)
 - Nome do Integrante 2
 - Nome do Integrante 3
 - Nome do Integrante 4
