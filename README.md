@@ -28,6 +28,6 @@ O trabalho deverá ser entregue por meio de um repositório Git, cujo link dever
 - **Wallace De Jesus Santana** - [Repositório](https://github.com/wallacemt/projeto-de-banco-de-dados-ecommerce)
 - **Lucas De Oliveira Santos** - [Repositório](https://github.com/Luccas094/projeto-bd-ecommerce)
 - **Caue Ramos Valverde** - [Repositório](https://github.com/CaueKonceRamos/projeto-bd-ecommerce)
-- Nome do Integrante 4
+- **Gustavo de Jesus dos Santos** - [Repositório](https://github.com/Guszhk/Projeto-Banco-de-Dados-Ecommerce)
 - Nome do Integrante 5
 
