@@ -29,5 +29,5 @@ O trabalho deverá ser entregue por meio de um repositório Git, cujo link dever
 - **Lucas De Oliveira Santos** - [Repositório](https://github.com/Luccas094/projeto-bd-ecommerce)
 - **Caue Ramos Valverde** - [Repositório](https://github.com/CaueKonceRamos/projeto-bd-ecommerce)
 - **Gustavo de Jesus dos Santos** - [Repositório](https://github.com/Guszhk/Projeto-Banco-de-Dados-Ecommerce)
-- Nome do Integrante 5
-
+- **Leticia Farias Da Silva Souza** - [Repositório](https://github.com/LettyFariias/projeto-bd-ecommerce)
+- **Beatriz De Abreu Conceicao** - [Repositório](https://github.com/Biabreuz/projeto-bd-ecommerce)
